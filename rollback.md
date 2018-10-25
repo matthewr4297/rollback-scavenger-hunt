@@ -1,2 +1,1 @@
-This is the first line of text.
-This is the second line of text.
+Use the chat menu to talk to me!
